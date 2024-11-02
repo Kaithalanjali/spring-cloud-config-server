@@ -1,5 +1,10 @@
 This is microservice, related to repo https://github.com/Kaithalanjali/limit-service
 
+Dependency :
+
+![image](https://github.com/user-attachments/assets/41bf07c2-3abe-4c6d-836f-f3460c1a6a1c)
+
+
 Here I am doing hands-on for the concept - Centralization Configuration
 
 ![image](https://github.com/user-attachments/assets/db990297-cbf8-4f2e-9a01-9f8d5878c26c)
